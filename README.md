@@ -25,3 +25,12 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 Logistic Regression is a statistical model which used to find the probability of an appearance, in our case the probability of our patient to die by heart faliure.
 The Logistic Regression algoritem is based on Linear Regression but improved by using Sigmoid and ln functions.
+
+### Backpropagation
+
+Backpropagation is an algorithm which built on ANN (artificial neural network), in our implementation we used Rectifier Linear and Sigmoid function to predict our outcome.
+
+### Naive Bayes Classifier
+
+Naïve Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
+Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the fast machine learning models that can make quick predictions.
