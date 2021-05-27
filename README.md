@@ -53,6 +53,7 @@ Results using normalization technique:
 ![Logistic Regression normalization](https://github.com/dan2443/heart_failure_prediction/blob/main/images/logistic%20regression%20normalization.png)
 
 Results using standartization technique:
+
 ![Logistic Regression standartization](https://github.com/dan2443/heart_failure_prediction/blob/main/images/logistic%20regression%20standartization.png)
 
 ### Backpropagation
