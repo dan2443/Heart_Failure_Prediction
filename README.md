@@ -1,4 +1,4 @@
-# Heart_Failure_Prediction
+# heart_failure_prediction
 In part of Machine learning seminar, our goal was to analyze a dataset with machine learning algoritems to predict an outcome.
 Me and my partner decided to take this dataset from Kaggle:
 
