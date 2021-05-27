@@ -20,7 +20,6 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 * Backpropagation
 * Naive Bayes Classifier
 
-
 ### Logistic Regression:
 
 Logistic Regression is a statistical model which used to find the probability of an appearance, in our case the probability of our patient to die by heart faliure.
@@ -34,3 +33,43 @@ Backpropagation is an algorithm which built on ANN (artificial neural network), 
 
 Naïve Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
 Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the fast machine learning models that can make quick predictions.
+
+## Corralation between parameters
+
+### Corralation between all parameters
+
+![Corralation between parameters](https://github.com/dan2443/heart_failure_prediction/blob/main/images/parameters%20correlation.png)
+
+### Corralation between DEATH_EVENT parameter to most significant parameters
+
+![Corralation with threshold](https://github.com/dan2443/heart_failure_prediction/blob/main/images/parameters%20correlation%20with%20threshold.png)
+
+
+## Results
+
+### Logistic Regression
+Results using normalization technique:
+
+![Logistic Regression normalization](https://github.com/dan2443/heart_failure_prediction/blob/main/images/logistic%20regression%20normalization.png)
+
+Results using standartization technique:
+![Logistic Regression standartization](https://github.com/dan2443/heart_failure_prediction/blob/main/images/logistic%20regression%20standartization.png)
+
+### Backpropagation
+
+![Backpropagation results](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Backpropegation%20results%20300epochs.png)
+
+### Naive Bayes Classifier
+
+[Naive Bayes Classifier results](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Naive%20Bayes%20results.png)
+
+### Backpropagation using only the most significant parameters
+
+[Backpropagation results with significant](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Backpropegation%20results%20150epochs%20best%20param%201%20hidden.png)
+
+### Results of all algorithms
+
+[Results of all algorithms](https://github.com/dan2443/heart_failure_prediction/blob/main/images/results%20of%20all%20algorithms.png)
+
+
+
