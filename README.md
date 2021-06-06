@@ -62,15 +62,15 @@ Results using standartization technique:
 
 ### Naive Bayes Classifier
 
-[Naive Bayes Classifier results](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Naive%20Bayes%20results.png)
+![Naive Bayes Classifier results](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Naive%20Bayes%20results.png)
 
 ### Backpropagation using only the most significant parameters
 
-[Backpropagation results with significant](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Backpropegation%20results%20150epochs%20best%20param%201%20hidden.png)
+![Backpropagation results with significant](https://github.com/dan2443/heart_failure_prediction/blob/main/images/Backpropegation%20results%20150epochs%20best%20param%201%20hidden.png)
 
 ### Results of all algorithms
 
-[Results of all algorithms](https://github.com/dan2443/heart_failure_prediction/blob/main/images/results%20of%20all%20algorithms.png)
+![Results of all algorithms](https://github.com/dan2443/heart_failure_prediction/blob/main/images/results%20of%20all%20algorithms.png)
 
 
 
